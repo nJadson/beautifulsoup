@@ -1,0 +1,24 @@
+1 - Já teve contato com a biblioteca beautifulsoup?
+    R - Sim, quando estive buscando bibliotecas ou frameworks para me auxiliar em analisar dados de um terminado site, acabei me deparando com o BS4.
+
+2 - Se sim, poderia explicar seu funcionamento aplicado?
+    R - o beautifulsoup de forma geral é uma biblioteca que possuí o intuito de facilitar o web scraping (interação geral) dos dados contidos em estruturas do tipo html ou xml.  
+
+3 - Já teve contato com a biblioteca scrapy?
+    R -
+
+4 - Se sim, poderia explicar seu funcionamento aplicado?
+    R -
+
+5 - Poderia desenvolver um web crawler para a coleta no site https://www.melodybrazil.com/, 
+para todos os cds disponíveis no site. Os resultados devem ser salvos em uma planilha xls e conter, url da publicação, o nome da publicação, data da publicação, 
+publicado por e url de download do cd.
+    R - 
+
+6 - Coloque em anexo na resposta deste e-mail, o web crawler desenvolvido e os resultados obtidos em formato xls.
+    R -
+
+Pontos interessante do beautifulsoup:
+
+Beautifulsoup é recomendado para sites estáticos, jusatmente porque depois que criamos um scripts se o site modificar o código para de funcionar.
+Então depois de rasparmos as informações, ele basicamente vai permitir trazer o valor para o código e realizar o tratamento dos dados.

@@ -1,0 +1,554 @@
+{'URL': 'https://www.melodybrazil.com/2024/02/david-super-loop-trava-trava-privado2k24.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/343befa3-91f2-481c-aeed-80ee90a6b584/DAVID%20SUPER%20-%20LOOP%20TRAVA%20TRAVA%20%7BPRIVADO2K24%7D.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/david-super-novinha-ritmista-exclusiva.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/504ccb70-7927-43af-95f1-4830314db9cb/DAVID%20SUPER%20-%20NOVINHA%20RITMISTA%20%7BEXCLUSIVA%7D.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/rosy-soares-forte-nao-sou-fuerte-no-soy.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/fd84753e-2964-4216-9a4d-6dc9cc44a7aa/ROSY%20SOARES%20-%20FORTE%20N%C3%83O%20SOU%20%28%20FUERTE%20NO%20SOY%20%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-dj-ronaldo-maresia-tecno-melody.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-dj-ronaldo-maresia-tecno-melody-gospel-01/PASTA%20DJ%20RONALDO%20MARESIA%20-%20TECNO%20MELODY%20GOSPEL%20%2001.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-dj-ronaldo-maresia-funk-de-cria-03.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-dj-ronaldo-maresia-funk-de-cria-03/PASTA%20DJ%20RONALDO%20MARESIA%20-%20FUNK%20DE%20CRIA%2003.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-batidao-super-pop.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/605d17d1-1156-4ab3-92aa-b2a4513365c5/SEBASTIAN%20DJ%20E%20BANDA%20BATID%C3%83O%20-%20SUPER%20POP%202024%20%28REMIX%20PREMIUM%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-batidao-ela-e.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/43e364e8-5482-4fdc-bbfa-ca5db4827a13/SEBASTIAN%20DJ%20E%20BANDA%20BATID%C3%83O%20-%20ELE%20E%20FRACA%20DEMAIS%20%28REMIX%20PREMIUM%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-007-nao-vivo-sem.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/4d5b24f1-756b-4733-9679-a9f91474170c/SEBASTIAN%20DJ%20E%20BANDA%20007%20N%C3%83O%20VIVO%20SEM%20VOC%C3%8A%20%28REMIX%202024%29.mp3?download=true'}  
+{'URL': 'https://www.melodybrazil.com/2024/02/sebastian-dj-e-mc-ph-atriz-de-cinema.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/f0d7cd31-6fae-4da2-bc37-43c3355c1ccc/SEBASTIAN%20DJ%20E%20MC%20PH%20-%20ATRIZ%20DE%20CINEMA%20%28REMIX%20PREMIUM%202024%29.mp3?download=true'}       
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-de-tecnomelody-fevereiro-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-de-tecnomelody-fevereiro-2024/PASTA%20DE%20TECNOMELODY%20%28%20FEVEREIRO%20%29%202024.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-de-arrocha-fevereiro-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-de-arrocha-fevereiro-2024/PASTA%20DE%20ARROCHA%20%28%20FEVEREIRO%20%29%202024.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/junior-santorini-eu-vou-cair-na-noite.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/a1071f4f-0713-4dea-a850-f3ec84ae3697/JUNIOR%20SANTORINI%20-%20EU%20VOU%20CAIR%20NA%20NOITE%20%28Drop%20Style%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/deivid-dos-teclados-e-fabiano.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/d25eaa7d-1ff2-4f71-af84-ca2cfbf945a1/DEIVID%20DOS%20TECLADOS%20E%20FABIANO%20TAILANDENSE%20-%20TE%20AMO%28melody%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/fabiano-tailandense-eu-vou-te-amar-vs.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/e52f672a-d0d3-440b-b9c5-81bb88073c02/FABIANO%20TAILANDENSE%20-%20EU%20VOU%20TE%20AMAR%20vs%20INTERNACIONAL%28melody%202024%29.mp3?download=true'}   
+{'URL': 'https://www.melodybrazil.com/2024/02/victor-gael-por-um-momento-melody-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/24d4b830-b98c-44e5-8820-fcb87e0d0a09/VICTOR%20GAEL%20-%20POR%20UM%20MOMENTO%28melody%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-robson-mafra-mc-paulin-da-capital.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/8ddd191d-5bc9-4aa4-85ee-b0c4efadc171/DJ%20ROBSON%20MAFRA%20%26%20MC%20PAULIN%20DA%20CAPITAL%20-%20S%C3%83O%203O%20E%20POUCOS%20ANOS%20DE%20COMUNIDADE%20%28EXCLUSIVA%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-junior-sales-e-dayvid-mega-1-2-3.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'DJ JUNIOR SALES', 'URL de Download': 'https://cld.pt/dl/download/55f3d419-dedc-42ef-abbc-c086d234853a/DJ%20JUNIOR%20SALES%20e%20DAYVID%20MEGA%20-%201%2C%202%2C%203%20%28EXCLUSIVA%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/future-melody-brasil-get-better-kmc.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/013dc1e9-60a3-46c0-a6f3-7905f73a9271/FUTURE%20MELODY%20BRASIL%20-%20GET%20BETTER%20%28KMC%20FEAT.SANDY%29%20RMX.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-eduardo-da-night-vem-de-re.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/96308cb2-365a-4fc7-8f0b-433617892a29/DJ%20EDUARDO%20DA%20NIGHT%20%20-%20VEM%20DE%20R%C3%89.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-eduardo-da-night-tenho-que-me-decidir.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/0fb3b561-f345-4631-90a8-58a15b430f1c/DJ%20EDUARDO%20DA%20NIGHT%20-%20TENHO%20QUE%20ME%20DECIDIR.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-iran-cyber-tecno-dj-moyses-santiago.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/43c271f9-43de-4543-adcd-e8c638588d6d/DJ%20IRAN%20-%20CYBER%20TECNO%20DJ%20MOYSES%20SANTIAGO%20-%202024.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/banda-os-brothers-by-dj-iran-musistar.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/49b97e3e-0e82-4ae6-ad26-09f309464735/BANDA%20OS%20BROTHERS%20BY%20DJ%20IRAN%20MUSISTAR%20-%20MARCANTE%20DJ%20RAFAEL%20CASSIANO.mp3?download=true'}  
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-meury-bom-dia-princesa-por-favor.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/7f1cb268-c71f-4856-9b5d-db47727cf761/DJ%20M%C3%89URY%20-%20BOM%20DIA%20PRINCESA%20POR%20FAVOR%20SENTE%20NA%20GLOCK%20%28Dono%20da%20Porsche%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-meury-da-licenca-aqui-novinha-voce-e.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/8c951dd2-1346-4887-9052-da65aa939f56/DJ%20M%C3%89URY%20-%20DA%20LICEN%C3%87A%20AQUI%20NOVINHA%20VOC%C3%8A%20%C3%89%20UMA%20DELICINHA%20%28Beat%20da%20Felicidade%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-robson-mafra-bia-bergman-tudo-mudou.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '24/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/8a7f8782-bca1-43f7-ad1c-95bd2b403ec0/DJ%20ROBSON%20MAFRA%20%26%20BIA%20BERGMAN%20-%20TUDO%20MUDOU%20%28MELODY%20ROMANTICO%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/rosy-soares-forte-nao-sou-fuerte-no-soy.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/fd84753e-2964-4216-9a4d-6dc9cc44a7aa/ROSY%20SOARES%20-%20FORTE%20N%C3%83O%20SOU%20%28%20FUERTE%20NO%20SOY%20%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-meury-bom-dia-princesa-por-favor.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/7f1cb268-c71f-4856-9b5d-db47727cf761/DJ%20M%C3%89URY%20-%20BOM%20DIA%20PRINCESA%20POR%20FAVOR%20SENTE%20NA%20GLOCK%20%28Dono%20da%20Porsche%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-lorran-e-mc-livinho-amor-e-mentira.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '23/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/3ccb87cc-2a05-4c14-ad2b-8607a9becce1/DJ%20LORRAN%20E%20MC%20LIVINHO%20-%20AMOR%20%C3%89%20MENTIRA.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/viviane-batidao-carabao-vai-tocar-tecno.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '23/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/913fa55a-1a22-47ed-92fd-54cbe2e51570/VIVIANE%20BATID%C3%83O%20-%20CARABAO%20VAI%20TOCAR%20%28TECNO%20BREGA%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-meury-da-licenca-aqui-novinha-voce-e.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/8c951dd2-1346-4887-9052-da65aa939f56/DJ%20M%C3%89URY%20-%20DA%20LICEN%C3%87A%20AQUI%20NOVINHA%20VOC%C3%8A%20%C3%89%20UMA%20DELICINHA%20%28Beat%20da%20Felicidade%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-dj-ronaldo-maresia-funk-de-cria-03.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-dj-ronaldo-maresia-funk-de-cria-03/PASTA%20DJ%20RONALDO%20MARESIA%20-%20FUNK%20DE%20CRIA%2003.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-josue-macetando-vip-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '23/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/d2d74374-1413-4e91-8cee-4a7539f0b33b/DJ%20JOSUE%20-%20MACETANDO%20%28VIP%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-sander-show-do-aguia-internacional.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '21/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/4c65ad98-ea0a-4c27-b26f-d456b7a63dcb/DJ%20SANDER%20-%20SHOW%20DO%20%C3%81GUIA%20INTERNACIONAL%20-%20LAST%20NIGHT%20%28EXCLUSIVA%20LIBERADA%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-de-tecnomelody-fevereiro-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-de-tecnomelody-fevereiro-2024/PASTA%20DE%20TECNOMELODY%20%28%20FEVEREIRO%20%29%202024.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-eduardo-da-night-tenho-que-me-decidir.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/0fb3b561-f345-4631-90a8-58a15b430f1c/DJ%20EDUARDO%20DA%20NIGHT%20-%20TENHO%20QUE%20ME%20DECIDIR.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-josue-what-is-love-vip-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '23/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/8e4de03d-0dd9-4d7b-b828-3d301a109455/DJ%20JOSUE%20-%20WHAT%20IS%20LOVE%20%28VIP%202024%29.mp3?download=true'}
+
+onde:
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/david-super-loop-trava-trava-privado2k24.html">DAVID SUPER - LOOP TRAVA TRAVA {PRIVADO2K24} </a>
+</h2>
+
+{'URL': 'https://www.melodybrazil.com/2024/02/david-super-loop-trava-trava-privado2k24.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/343befa3-91f2-481c-aeed-80ee90a6b584/DAVID%20SUPER%20-%20LOOP%20TRAVA%20TRAVA%20%7BPRIVADO2K24%7D.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/david-super-novinha-ritmista-exclusiva.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/504ccb70-7927-43af-95f1-4830314db9cb/DAVID%20SUPER%20-%20NOVINHA%20RITMISTA%20%7BEXCLUSIVA%7D.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/rosy-soares-forte-nao-sou-fuerte-no-soy.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/fd84753e-2964-4216-9a4d-6dc9cc44a7aa/ROSY%20SOARES%20-%20FORTE%20N%C3%83O%20SOU%20%28%20FUERTE%20NO%20SOY%20%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-dj-ronaldo-maresia-tecno-melody.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-dj-ronaldo-maresia-tecno-melody-gospel-01/PASTA%20DJ%20RONALDO%20MARESIA%20-%20TECNO%20MELODY%20GOSPEL%20%2001.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-dj-ronaldo-maresia-funk-de-cria-03.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-dj-ronaldo-maresia-funk-de-cria-03/PASTA%20DJ%20RONALDO%20MARESIA%20-%20FUNK%20DE%20CRIA%2003.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-batidao-super-pop.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/605d17d1-1156-4ab3-92aa-b2a4513365c5/SEBASTIAN%20DJ%20E%20BANDA%20BATID%C3%83O%20-%20SUPER%20POP%202024%20%28REMIX%20PREMIUM%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-batidao-ela-e.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/43e364e8-5482-4fdc-bbfa-ca5db4827a13/SEBASTIAN%20DJ%20E%20BANDA%20BATID%C3%83O%20-%20ELE%20E%20FRACA%20DEMAIS%20%28REMIX%20PREMIUM%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-007-nao-vivo-sem.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/4d5b24f1-756b-4733-9679-a9f91474170c/SEBASTIAN%20DJ%20E%20BANDA%20007%20N%C3%83O%20VIVO%20SEM%20VOC%C3%8A%20%28REMIX%202024%29.mp3?download=true'}  
+{'URL': 'https://www.melodybrazil.com/2024/02/sebastian-dj-e-mc-ph-atriz-de-cinema.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/f0d7cd31-6fae-4da2-bc37-43c3355c1ccc/SEBASTIAN%20DJ%20E%20MC%20PH%20-%20ATRIZ%20DE%20CINEMA%20%28REMIX%20PREMIUM%202024%29.mp3?download=true'}       
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-de-tecnomelody-fevereiro-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-de-tecnomelody-fevereiro-2024/PASTA%20DE%20TECNOMELODY%20%28%20FEVEREIRO%20%29%202024.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-de-arrocha-fevereiro-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-de-arrocha-fevereiro-2024/PASTA%20DE%20ARROCHA%20%28%20FEVEREIRO%20%29%202024.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/junior-santorini-eu-vou-cair-na-noite.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/a1071f4f-0713-4dea-a850-f3ec84ae3697/JUNIOR%20SANTORINI%20-%20EU%20VOU%20CAIR%20NA%20NOITE%20%28Drop%20Style%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/deivid-dos-teclados-e-fabiano.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/d25eaa7d-1ff2-4f71-af84-ca2cfbf945a1/DEIVID%20DOS%20TECLADOS%20E%20FABIANO%20TAILANDENSE%20-%20TE%20AMO%28melody%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/fabiano-tailandense-eu-vou-te-amar-vs.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/e52f672a-d0d3-440b-b9c5-81bb88073c02/FABIANO%20TAILANDENSE%20-%20EU%20VOU%20TE%20AMAR%20vs%20INTERNACIONAL%28melody%202024%29.mp3?download=true'}   
+{'URL': 'https://www.melodybrazil.com/2024/02/victor-gael-por-um-momento-melody-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/24d4b830-b98c-44e5-8820-fcb87e0d0a09/VICTOR%20GAEL%20-%20POR%20UM%20MOMENTO%28melody%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-robson-mafra-mc-paulin-da-capital.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/8ddd191d-5bc9-4aa4-85ee-b0c4efadc171/DJ%20ROBSON%20MAFRA%20%26%20MC%20PAULIN%20DA%20CAPITAL%20-%20S%C3%83O%203O%20E%20POUCOS%20ANOS%20DE%20COMUNIDADE%20%28EXCLUSIVA%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-junior-sales-e-dayvid-mega-1-2-3.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'DJ JUNIOR SALES', 'URL de Download': 'https://cld.pt/dl/download/55f3d419-dedc-42ef-abbc-c086d234853a/DJ%20JUNIOR%20SALES%20e%20DAYVID%20MEGA%20-%201%2C%202%2C%203%20%28EXCLUSIVA%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/future-melody-brasil-get-better-kmc.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/013dc1e9-60a3-46c0-a6f3-7905f73a9271/FUTURE%20MELODY%20BRASIL%20-%20GET%20BETTER%20%28KMC%20FEAT.SANDY%29%20RMX.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-eduardo-da-night-vem-de-re.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/96308cb2-365a-4fc7-8f0b-433617892a29/DJ%20EDUARDO%20DA%20NIGHT%20%20-%20VEM%20DE%20R%C3%89.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-eduardo-da-night-tenho-que-me-decidir.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/0fb3b561-f345-4631-90a8-58a15b430f1c/DJ%20EDUARDO%20DA%20NIGHT%20-%20TENHO%20QUE%20ME%20DECIDIR.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-iran-cyber-tecno-dj-moyses-santiago.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/43c271f9-43de-4543-adcd-e8c638588d6d/DJ%20IRAN%20-%20CYBER%20TECNO%20DJ%20MOYSES%20SANTIAGO%20-%202024.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/banda-os-brothers-by-dj-iran-musistar.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/49b97e3e-0e82-4ae6-ad26-09f309464735/BANDA%20OS%20BROTHERS%20BY%20DJ%20IRAN%20MUSISTAR%20-%20MARCANTE%20DJ%20RAFAEL%20CASSIANO.mp3?download=true'}  
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-meury-bom-dia-princesa-por-favor.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/7f1cb268-c71f-4856-9b5d-db47727cf761/DJ%20M%C3%89URY%20-%20BOM%20DIA%20PRINCESA%20POR%20FAVOR%20SENTE%20NA%20GLOCK%20%28Dono%20da%20Porsche%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-meury-da-licenca-aqui-novinha-voce-e.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/8c951dd2-1346-4887-9052-da65aa939f56/DJ%20M%C3%89URY%20-%20DA%20LICEN%C3%87A%20AQUI%20NOVINHA%20VOC%C3%8A%20%C3%89%20UMA%20DELICINHA%20%28Beat%20da%20Felicidade%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-robson-mafra-bia-bergman-tudo-mudou.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '24/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/8a7f8782-bca1-43f7-ad1c-95bd2b403ec0/DJ%20ROBSON%20MAFRA%20%26%20BIA%20BERGMAN%20-%20TUDO%20MUDOU%20%28MELODY%20ROMANTICO%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/rosy-soares-forte-nao-sou-fuerte-no-soy.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/fd84753e-2964-4216-9a4d-6dc9cc44a7aa/ROSY%20SOARES%20-%20FORTE%20N%C3%83O%20SOU%20%28%20FUERTE%20NO%20SOY%20%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-meury-bom-dia-princesa-por-favor.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/7f1cb268-c71f-4856-9b5d-db47727cf761/DJ%20M%C3%89URY%20-%20BOM%20DIA%20PRINCESA%20POR%20FAVOR%20SENTE%20NA%20GLOCK%20%28Dono%20da%20Porsche%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-lorran-e-mc-livinho-amor-e-mentira.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '23/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/3ccb87cc-2a05-4c14-ad2b-8607a9becce1/DJ%20LORRAN%20E%20MC%20LIVINHO%20-%20AMOR%20%C3%89%20MENTIRA.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/viviane-batidao-carabao-vai-tocar-tecno.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '23/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/913fa55a-1a22-47ed-92fd-54cbe2e51570/VIVIANE%20BATID%C3%83O%20-%20CARABAO%20VAI%20TOCAR%20%28TECNO%20BREGA%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-meury-da-licenca-aqui-novinha-voce-e.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/8c951dd2-1346-4887-9052-da65aa939f56/DJ%20M%C3%89URY%20-%20DA%20LICEN%C3%87A%20AQUI%20NOVINHA%20VOC%C3%8A%20%C3%89%20UMA%20DELICINHA%20%28Beat%20da%20Felicidade%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-dj-ronaldo-maresia-funk-de-cria-03.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '29/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-dj-ronaldo-maresia-funk-de-cria-03/PASTA%20DJ%20RONALDO%20MARESIA%20-%20FUNK%20DE%20CRIA%2003.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-josue-macetando-vip-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '23/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/d2d74374-1413-4e91-8cee-4a7539f0b33b/DJ%20JOSUE%20-%20MACETANDO%20%28VIP%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-sander-show-do-aguia-internacional.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '21/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/4c65ad98-ea0a-4c27-b26f-d456b7a63dcb/DJ%20SANDER%20-%20SHOW%20DO%20%C3%81GUIA%20INTERNACIONAL%20-%20LAST%20NIGHT%20%28EXCLUSIVA%20LIBERADA%202024%29.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/pasta-de-tecnomelody-fevereiro-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '28/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://archive.org/download/pasta-de-tecnomelody-fevereiro-2024/PASTA%20DE%20TECNOMELODY%20%28%20FEVEREIRO%20%29%202024.zip'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-eduardo-da-night-tenho-que-me-decidir.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '27/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/0fb3b561-f345-4631-90a8-58a15b430f1c/DJ%20EDUARDO%20DA%20NIGHT%20-%20TENHO%20QUE%20ME%20DECIDIR.mp3?download=true'}
+{'URL': 'https://www.melodybrazil.com/2024/02/dj-josue-what-is-love-vip-2024.html', 'Título do CD': 'ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY )', 'Data da Publicação': '23/02/2024', 'Publicado por': 'Ryan Mix', 'URL de Download': 'https://cld.pt/dl/download/8e4de03d-0dd9-4d7b-b828-3d301a109455/DJ%20JOSUE%20-%20WHAT%20IS%20LOVE%20%28VIP%202024%29.mp3?download=true'}
+
+[<div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/david-super-loop-trava-trava-privado2k24.html">DAVID SUPER - LOOP TRAVA TRAVA {PRIVADO2K24} </a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-29T16:06:00-03:00" title="2024-02-29T16:06:00-03:00">
+29/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/david-super-loop-trava-trava-privado2k24.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/david-super-novinha-ritmista-exclusiva.html">DAVID SUPER - NOVINHA RITMISTA {EXCLUSIVA}</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-29T14:22:00-03:00" title="2024-02-29T14:22:00-03:00">
+29/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/david-super-novinha-ritmista-exclusiva.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/rosy-soares-forte-nao-sou-fuerte-no-soy.html">ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY ) </a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-29T09:39:00-03:00" title="2024-02-29T09:39:00-03:00">
+29/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/rosy-soares-forte-nao-sou-fuerte-no-soy.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/pasta-dj-ronaldo-maresia-tecno-melody.html">PASTA DJ RONALDO MARESIA - TECNO MELODY GOSPEL  01</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T21:14:00-03:00" title="2024-02-28T21:14:00-03:00">
+29/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/pasta-dj-ronaldo-maresia-tecno-melody.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/pasta-dj-ronaldo-maresia-funk-de-cria-03.html">PASTA DJ RONALDO MARESIA - FUNK DE CRIA 03</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T21:10:00-03:00" title="2024-02-28T21:10:00-03:00">
+29/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/pasta-dj-ronaldo-maresia-funk-de-cria-03.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-batidao-super-pop.html">SEBASTIAN DJ E BANDA BATIDÃO - SUPER POP 2024 (REMIX PREMIUM)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T20:52:00-03:00" title="2024-02-28T20:52:00-03:00">
+28/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-batidao-super-pop.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-batidao-ela-e.html">SEBASTIAN DJ E BANDA BATIDÃO - ELA E FRACA DEMAIS (REMIX PREMIUM 2024)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T20:50:00-03:00" title="2024-02-28T20:50:00-03:00">
+28/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-batidao-ela-e.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-007-nao-vivo-sem.html">SEBASTIAN DJ E BANDA 007 - NÃO VIVO SEM VOCÊ (REMIX 2024)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T20:50:00-03:00" title="2024-02-28T20:50:00-03:00">
+28/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/sebastian-dj-e-banda-007-nao-vivo-sem.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/sebastian-dj-e-mc-ph-atriz-de-cinema.html">SEBASTIAN DJ E MC PH - ATRIZ DE CINEMA (REMIX PREMIUM 2024)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T20:48:00-03:00" title="2024-02-28T20:48:00-03:00">
+28/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/sebastian-dj-e-mc-ph-atriz-de-cinema.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/pasta-de-tecnomelody-fevereiro-2024.html">PASTA DE TECNOMELODY ( FEVEREIRO ) 2024 #MELODYBRAZIL</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T20:29:00-03:00" title="2024-02-28T20:29:00-03:00">
+28/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/pasta-de-tecnomelody-fevereiro-2024.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/pasta-de-arrocha-fevereiro-2024.html">PASTA DE ARROCHA ( FEVEREIRO ) 2024 #MELODYBRAZIL</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T20:26:00-03:00" title="2024-02-28T20:26:00-03:00">
+28/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/pasta-de-arrocha-fevereiro-2024.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/junior-santorini-eu-vou-cair-na-noite.html">JUNIOR SANTORINI - EU VOU CAIR NA NOITE (Drop Style)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T17:18:00-03:00" title="2024-02-28T17:18:00-03:00">
+28/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/junior-santorini-eu-vou-cair-na-noite.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/deivid-dos-teclados-e-fabiano.html">DEIVID DOS TECLADOS E FABIANO TAILANDENSE - TE AMO (melody 2024)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T17:18:00-03:00" title="2024-02-28T17:18:00-03:00">
+28/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/deivid-dos-teclados-e-fabiano.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/fabiano-tailandense-eu-vou-te-amar-vs.html">FABIANO TAILANDENSE - EU VOU TE AMAR vs INTERNACIONAL (melody 2024)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T17:18:00-03:00" title="2024-02-28T17:18:00-03:00">
+28/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/fabiano-tailandense-eu-vou-te-amar-vs.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/victor-gael-por-um-momento-melody-2024.html">VICTOR GAEL - POR UM MOMENTO (melody 2024)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-28T17:18:00-03:00" title="2024-02-28T17:18:00-03:00">
+28/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/victor-gael-por-um-momento-melody-2024.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-robson-mafra-mc-paulin-da-capital.html">DJ ROBSON MAFRA &amp; MC PAULIN DA CAPITAL - SÃO 3O E POUCOS ANOS DE COMUNIDADE (EXCLUSIVA)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-27T18:29:00-03:00" title="2024-02-27T18:29:00-03:00">
+27/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/dj-robson-mafra-mc-paulin-da-capital.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-junior-sales-e-dayvid-mega-1-2-3.html">DJ JUNIOR SALES e DAYVID MEGA - 1, 2, 3 (EXCLUSIVA 2024)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>DJ JUNIOR SALES</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-27T14:44:00-03:00" title="2024-02-27T14:44:00-03:00">
+27/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/dj-junior-sales-e-dayvid-mega-1-2-3.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/future-melody-brasil-get-better-kmc.html">FUTURE MELODY BRASIL - GET BETTER (KMC FEAT.SANDY) RMX </a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-27T14:37:00-03:00" title="2024-02-27T14:37:00-03:00">
+27/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/future-melody-brasil-get-better-kmc.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-eduardo-da-night-vem-de-re.html">DJ EDUARDO DA NIGHT  - VEM DE RÉ</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-27T14:29:00-03:00" title="2024-02-27T14:29:00-03:00">
+27/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/dj-eduardo-da-night-vem-de-re.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-eduardo-da-night-tenho-que-me-decidir.html">DJ EDUARDO DA NIGHT - TENHO QUE ME DECIDIR</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-27T14:28:00-03:00" title="2024-02-27T14:28:00-03:00">
+27/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/dj-eduardo-da-night-tenho-que-me-decidir.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-iran-cyber-tecno-dj-moyses-santiago.html">DJ IRAN - CYBER TECNO DJ MOYSES SANTIAGO - 2024</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-26T23:57:00-03:00" title="2024-02-26T23:57:00-03:00">
+27/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/dj-iran-cyber-tecno-dj-moyses-santiago.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/banda-os-brothers-by-dj-iran-musistar.html">BANDA OS BROTHERS BY DJ IRAN MUSISTAR - MARCANTE DJ RAFAEL CASSIANO </a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-26T23:56:00-03:00" title="2024-02-26T23:56:00-03:00">
+27/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/banda-os-brothers-by-dj-iran-musistar.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-meury-bom-dia-princesa-por-favor.html">DJ MÉURY - BOM DIA PRINCESA POR FAVOR SENTE NA GLOCK (Dono da Porsche)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-26T23:53:00-03:00" title="2024-02-26T23:53:00-03:00">
+27/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/dj-meury-bom-dia-princesa-por-favor.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-meury-da-licenca-aqui-novinha-voce-e.html">DJ MÉURY - DA LICENÇA AQUI NOVINHA VOCÊ É UMA DELICINHA (Beat da Felicidade)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-26T21:59:00-03:00" title="2024-02-26T21:59:00-03:00">
+27/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/dj-meury-da-licenca-aqui-novinha-voce-e.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-robson-mafra-bia-bergman-tudo-mudou.html">DJ ROBSON MAFRA &amp; BIA BERGMAN - TUDO MUDOU (MELODY ROMANTICO 2024)</a>
+</h2>
+<div class="post-meta">
+<span class="post-author">Publicado Por: <a>Ryan Mix</a></span>
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-24T12:58:00-03:00" title="2024-02-24T12:58:00-03:00">
+24/02/2024
+</time>
+</span>
+</div>
+<a class="read-more" href="https://www.melodybrazil.com/2024/02/dj-robson-mafra-bia-bergman-tudo-mudou.html">Ouvir e Baixar</a>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/rosy-soares-forte-nao-sou-fuerte-no-soy.html">ROSY SOARES - FORTE NÃO SOU ( FUERTE NO SOY ) </a>
+</h2>
+<div class="post-meta">
+<span class="post-date published">
+                  Publicado:
+                  <!--Can't find substitution for tag [byline.label]-->
+<time class="post-datepublished" datetime="2024-02-29T09:39:00-03:00" title="2024-02-29T09:39:00-03:00">
+29/02/2024
+</time>
+</span>
+</div>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-meury-bom-dia-princesa-por-favor.html">DJ MÉURY - BOM DIA PRINCESA POR FAVOR SENTE NA GLOCK (Dono da Porsche)</a>
+</h2>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-lorran-e-mc-livinho-amor-e-mentira.html">DJ LORRAN E MC LIVINHO - AMOR É MENTIRA </a>
+</h2>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/viviane-batidao-carabao-vai-tocar-tecno.html">VIVIANE BATIDÃO - CARABAO VAI TOCAR (TECNO BREGA 2024)</a>
+</h2>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/pasta-dj-ronaldo-maresia-funk-de-cria-03.html">PASTA DJ RONALDO MARESIA - FUNK DE CRIA 03</a>
+</h2>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-meury-da-licenca-aqui-novinha-voce-e.html">DJ MÉURY - DA LICENÇA AQUI NOVINHA VOCÊ É UMA DELICINHA (Beat da Felicidade)</a>
+</h2>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/pasta-de-tecnomelody-fevereiro-2024.html">PASTA DE TECNOMELODY ( FEVEREIRO ) 2024 #MELODYBRAZIL</a>
+</h2>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-josue-macetando-vip-2024.html">DJ JOSUE - MACETANDO (VIP 2024)</a>
+</h2>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-sander-show-do-aguia-internacional.html">DJ SANDER - SHOW DO ÁGUIA INTERNACIONAL - LAST NIGHT (EXCLUSIVA LIBERADA 2024)</a>
+</h2>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-junior-sales-e-dayvid-mega-1-2-3.html">DJ JUNIOR SALES e DAYVID MEGA - 1, 2, 3 (EXCLUSIVA 2024)</a>
+</h2>
+</div>, <div class="post-info">
+<h2 class="post-title">
+<a href="https://www.melodybrazil.com/2024/02/dj-eduardo-da-night-tenho-que-me-decidir.html">DJ EDUARDO DA NIGHT - TENHO QUE ME DECIDIR</a>
+</h2>
+</div>]
+
+--
+[['CD AO VIVO MEGA ROBSOM A EVOLUÇÃO NO POINT SHOW 25-02-2024 DJ JR ELETRIZANTE', '29/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-mega-robsom-evolucao-no_29.html', 'https://archive.org/download/cd-ao-vivo-mega-robsom-a-evoluca-o-no-point-show-25-02-2024-dj-jr-eletrizante/CD%20AO%20VIVO%20MEGA%20ROBSOM%20A%20EVOLU%C3%87%C3%83O%20NO%20POINT%20SHOW%2025-02-2024%20DJ%20JR%20ELETRIZANTE.zip'], 
+['CD AO VIVO MEGA ROBSOM A EVOLUÇÃO NO ROCK DELAS FLORENTINA 24-02-2024 DJ JR ELETRIZANTE', '29/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-mega-robsom-evolucao-no-rock.html', 'https://archive.org/download/cd-ao-vivo-mega-robsom-a-evoluca-o-no-rock-delas-florentina-24-02-2024-dj-jr-eletrizante/CD%20AO%20VIVO%20MEGA%20ROBSOM%20A%20EVOLU%C3%87%C3%83O%20NO%20ROCK%20DELAS%20FLORENTINA%2024-02-2024%20DJ%20JR%20ELETRIZANTE.zip'], 
+['CD AO VIVO CARABAO O FURIOSO DO MARAJÓ NO CLUBE DOS ESTIVADORES 25-02-2024 DJ SILVINHO', '28/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-carabao-o-furioso-do-marajo_76.html', 'https://archive.org/download/cd-ao-vivo-carabao-o-furioso-do-marajo-no-clube-dos-estivadores-25-02-2024-dj-silvinho/CD%20AO%20VIVO%20CARABAO%20O%20FURIOSO%20DO%20MARAJ%C3%93%20NO%20CLUBE%20DOS%20ESTIVADORES%2025-02-2024%20DJ%20SILVINHO.zip'], 
+['CD AO VIVO TUDÃO CROCODILO NO BELOQUINHA (BAILE DO PATRESE) 25-02-2024', '27/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-tudao-crocodilo-no_27.html', 'https://archive.org/download/cd-ao-vivo-tuda-o-crocodilo-no-beloquinha-baile-do-patrese-25-02-2024/CD%20AO%20VIVO%20TUD%C3%83O%20CROCODILO%20NO%20BELOQUINHA%20%28BAILE%20DO%20PATRESE%29%2025-02-2024.zip'], 
+['CD AO VIVO TUDÃO CROCODILO NA VIA SHOW (BAILE DO PATRESE) 24-02-2024', '27/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-tudao-crocodilo-na-via-show_27.html', 'https://archive.org/download/cd-ao-vivo-tuda-o-crocodilo-na-via-show-baile-do-patrese-24-02-2024/CD%20AO%20VIVO%20TUD%C3%83O%20CROCODILO%20NA%20VIA%20SHOW%20%28BAILE%20DO%20PATRESE%29%2024-02-2024.zip'], 
+['CD AO VIVO TUDÃO CROCODILO NO POINT SHOW (BAILE DO PATRESE) 23-02-2024', '27/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-tudao-crocodilo-no-point_27.html', 'https://archive.org/download/cd-ao-vivo-tuda-o-crocodilo-no-point-show-baile-do-patrese-23-02-2024/CD%20AO%20VIVO%20TUD%C3%83O%20CROCODILO%20NO%20POINT%20SHOW%20%28BAILE%20DO%20PATRESE%29%2023-02-2024.zip'], 
+['SEQUÊNCIA DE MARCANTES - DJ SILVANO MIX', '27/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/sequencia-de-marcantes-dj-silvano-mix.html', 'https://archive.org/download/seque-ncia-de-marcantes-dj-silvano-mix/SEQU%C3%8ANCIA%20DE%20MARCANTES%20-%20DJ%20SILVANO%20MIX.zip'], 
+['SET AO VIVO DJ DANIEL PRESSÃO NA PISCINA PEDRA SOBRE PEDRA (PARTE 2) SAUDADE,MARCANTE E ROCK DOIDO (26-02-2024)', '27/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/set-ao-vivo-dj-daniel-pressao-na_23.html', 'https://archive.org/download/set-ao-vivo-dj-daniel-pressa-o-na-piscina-pedra-sobre-pedra-parte-2-saudade-marc/SET%20AO%20VIVO%20DJ%20DANIEL%20PRESS%C3%83O%20NA%20PISCINA%20PEDRA%20SOBRE%20PEDRA%20%28PARTE%202%29%20SAUDADE%2CMARCANTE%20E%20ROCK%20DOIDO%20%2826-02-2024%29.zip'], 
+['SET AO VIVO DJ DANIEL PRESSÃO NA PISCINA PEDRA SOBRE PEDRA (PARTE 1) SAUDADE,MARCANTE E ROCK DOIDO (26-02-2024)', '27/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/set-ao-vivo-dj-daniel-pressao-na_27.html', 'https://archive.org/download/set-ao-vivo-dj-daniel-pressa-o-na-piscina-pedra-sobre-pedra-parte-1-saudade-marc/SET%20AO%20VIVO%20DJ%20DANIEL%20PRESS%C3%83O%20NA%20PISCINA%20PEDRA%20SOBRE%20PEDRA%20%28PARTE%201%29%20SAUDADE%2CMARCANTE%20E%20ROCK%20DOIDO%20%2826-02-2024%29.zip'], 
+['SET BAILAO DO MOREIRA NO IBIRAPUERA - ANIVERSARIO DO DIEGUINHO 24-02-2024', '27/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/set-bailao-do-moreira-no-ibirapuera.html', 'https://archive.org/download/set-bailao-do-moreira-no-ibirapuera-aniversario-do-dieguinho-24-02-2024/SET%20BAILAO%20DO%20MOREIRA%20NO%20IBIRAPUERA%20-%20ANIVERSARIO%20DO%20DIEGUINHO%2024-02-2024.zip'], 
+
+-> Preciso implementar uma função para deletar essas linhas de baixo o código encontrou a parte do "TOP 10 MAIS TOCADAS" e touxe, porém nele, não encontra-se informações úteis e poderia gerar duplicidade de dados.
+
+['SET FLASH BREGA (( MEGA  EDILSOM )) - DJ MATEUS EXPLOSAO', 'Data não disponível', 'Autor não disponível', 'https://www.cdsdeaparelhagens.com/2024/02/set-flash-brega-mega-edilsom-dj-mateus.html', 'https://archive.org/download/set-flash-brega-mega-edilsom-dj-mateus-explosao/SET%20FLASH%20BREGA%20%28%28%20MEGA%20%20EDILSOM%20%29%29%20-%20DJ%20MATEUS%20EXPLOSAO.zip'], 
+['SET MARCANTES TOP (( AS MENOS TOCADAS )) 2K24 - @RYANMIXCDS', 'Data não disponível', 'Autor não disponível', 'https://www.cdsdeaparelhagens.com/2024/02/set-marcantes-top-as-menos-tocadas-2k24.html', 'https://archive.org/download/set-marcantes-top-as-menos-tocadas-2-k-24-ryanmixcds/SET%20MARCANTES%20TOP%20%28%28%20AS%20MENOS%20TOCADAS%20%29%29%202K24%20-%20%40RYANMIXCDS.zip'], 
+['CD AO VIVO CARABAO O FURIOSO DO MARAJÓ NO CLUBE DOS ESTIVADORES 25-02-2024 DJ TOM MAXIMO', 'Data não disponível', 'Autor não disponível', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-carabao-o-furioso-do-marajo_56.html', 'https://archive.org/download/cd-ao-vivo-carabao-o-furioso-do-marajo-no-clube-dos-estivadores-25-02-2024-dj-tom-maximo/CD%20AO%20VIVO%20CARABAO%20O%20FURIOSO%20DO%20MARAJ%C3%93%20NO%20CLUBE%20DOS%20ESTIVADORES%2025-02-2024%20DJ%20TOM%20MAXIMO.zip'], 
+['CD AO VIVO LENDARIO RUBI NA AVENIDA SHOW 18-02-2024 DJ GIGIO BOY', 'Data não disponível', 'Autor não disponível', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-lendario-rubi-na-avenida.html', 'https://archive.org/download/cd-ao-vivo-lendario-rubi-na-avenida-show-18-02-2024-dj-gigio-boy/CD%20AO%20VIVO%20LENDARIO%20RUBI%20NA%20AVENIDA%20SHOW%2018-02-2024%20DJ%20GIGIO%20BOY.zip'], 
+['CD AO VIVO CARABAO O FURIOSO DO MARAJÓ NO CLUBE DOS ESTIVADORES 25-02-2024 DJ SILVINHO', 'Data não disponível', 'Autor não disponível', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-carabao-o-furioso-do-marajo_76.html', 'https://archive.org/download/cd-ao-vivo-carabao-o-furioso-do-marajo-no-clube-dos-estivadores-25-02-2024-dj-silvinho/CD%20AO%20VIVO%20CARABAO%20O%20FURIOSO%20DO%20MARAJ%C3%93%20NO%20CLUBE%20DOS%20ESTIVADORES%2025-02-2024%20DJ%20SILVINHO.zip'], 
+['CD AO VIVO DJ ELISON NEW AGE NO BLOCO DA MAÇÃ (MARITUBA) 10-02-2024', 'Data não disponível', 'Autor não disponível', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-dj-elison-new-age-no-bloco.html', 'https://archive.org/download/cd-ao-vivo-dj-elison-new-age-no-bloco-da-maca-marituba-10-02-2024/CD%20AO%20VIVO%20DJ%20ELISON%20NEW%20AGE%20NO%20BLOCO%20DA%20MA%C3%87%C3%83%20%28MARITUBA%29%2010-02-2024.zip'], 
+['CD AO VIVO TUDÃO CROCODILO NO BELOQUINHA (BAILE DO PATRESE) 25-02-2024', 'Data não disponível', 'Autor não disponível', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-tudao-crocodilo-no_27.html', 'https://archive.org/download/cd-ao-vivo-tuda-o-crocodilo-no-beloquinha-baile-do-patrese-25-02-2024/CD%20AO%20VIVO%20TUD%C3%83O%20CROCODILO%20NO%20BELOQUINHA%20%28BAILE%20DO%20PATRESE%29%2025-02-2024.zip'], 
+['SET FUNK TIKTOK 1.0 ATUALIZADO 2K23 - @RYANMIXCDS', 'Data não disponível', 'Autor não disponível', 'https://www.cdsdeaparelhagens.com/2023/08/set-funk-tiktok-10-atualizado-2k23.html', 'https://archive.org/download/set-funk-tiktok-1.0-atualizado-2-k-23-ryanmixcds/SET%20FUNK%20TIKTOK%201.0%20ATUALIZADO%202K23%20-%20%40RYANMIXCDS.zip'],
+['CD AO VIVO CARABAO O FURIOSO DO MARAJÓ NO PALACIO DOS BARES 19-02-2024 DJ SILVINHO', 'Data não disponível', 'Autor não disponível', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-carabao-o-furioso-do-marajo_40.html', 'https://archive.org/download/cd-ao-vivo-carabao-o-furioso-do-marajo-no-palacio-dos-bares-19-02-2024-dj-silvinho/CD%20AO%20VIVO%20CARABAO%20O%20FURIOSO%20DO%20MARAJ%C3%93%20NO%20PALACIO%20DOS%20BARES%2019-02-2024%20DJ%20SILVINHO.zip'], 
+['SEQUÊNCIA DE MARCANTES - DJ SILVANO MIX', 'Data não disponível', 'Autor não disponível', 'https://www.cdsdeaparelhagens.com/2024/02/sequencia-de-marcantes-dj-silvano-mix.html', 'https://archive.org/download/seque-ncia-de-marcantes-dj-silvano-mix/SEQU%C3%8ANCIA%20DE%20MARCANTES%20-%20DJ%20SILVANO%20MIX.zip']]
+
+------
+[['CD AO VIVO LENDARIO RUBI NO PALACIO DOS BARES 26-02-2024 DJ GIGIO BOY', '01/03/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/03/cd-ao-vivo-lendario-rubi-no-palacio-dos.html', 'https://archive.org/download/cd-ao-vivo-lendario-rubi-no-palacio-dos-bares-26-02-2024-dj-gigio-boy/CD%20AO%20VIVO%20LENDARIO%20RUBI%20NO%20PALACIO%20DOS%20BARES%2026-02-2024%20DJ%20GIGIO%20BOY.zip'], 
+['CD AO VIVO LENDARIO RUBI NA VIA SHOW 25-02-2024 DJ GIGIO BOY', '01/03/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/03/cd-ao-vivo-lendario-rubi-na-via-show-25.html', 'https://archive.org/download/cd-ao-vivo-lendario-rubi-na-via-show-25-02-2024-dj-gigio-boy/CD%20AO%20VIVO%20LENDARIO%20RUBI%20NA%20VIA%20SHOW%2025-02-2024%20DJ%20GIGIO%20BOY.zip'], 
+['CD AO VIVO LENDARIO RUBI NO KALAMAZOO 24-02-2024 DJ GIGIO BOY', '01/03/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/03/cd-ao-vivo-lendario-rubi-no-kalamazoo.html', 'https://archive.org/download/cd-ao-vivo-lendario-rubi-no-kalamazoo-24-02-2024-dj-gigio-boy/CD%20AO%20VIVO%20LENDARIO%20RUBI%20NO%20KALAMAZOO%2024-02-2024%20DJ%20GIGIO%20BOY.zip'], 
+['CD AO VIVO LENDARIO RUBI NO BOSQUINHO 23-02-2024 DJ GIGIO BOY', '01/03/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/03/cd-ao-vivo-lendario-rubi-no-bosquinho.html', 'https://archive.org/download/cd-ao-vivo-lendario-rubi-no-bosquinho-23-02-2024-dj-gigio-boy/CD%20AO%20VIVO%20LENDARIO%20RUBI%20NO%20BOSQUINHO%2023-02-2024%20DJ%20GIGIO%20BOY.zip'], 
+['SET IN 2012 - DJ THIAGUINHO TOOP', '01/03/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/03/set-in-2012-dj-thiaguinho-toop.html', 'https://archive.org/download/set-in-2012-dj-thiaguinho-toop/SET%20IN%202012%20-%20DJ%20THIAGUINHO%20TOOP.zip'], 
+['CD AO VIVO MEGA ROBSOM A EVOLUÇÃO NO POINT SHOW 25-02-2024 DJ JR ELETRIZANTE', '29/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-mega-robsom-evolucao-no_29.html', 'https://archive.org/download/cd-ao-vivo-mega-robsom-a-evoluca-o-no-point-show-25-02-2024-dj-jr-eletrizante/CD%20AO%20VIVO%20MEGA%20ROBSOM%20A%20EVOLU%C3%87%C3%83O%20NO%20POINT%20SHOW%2025-02-2024%20DJ%20JR%20ELETRIZANTE.zip'], 
+['CD AO VIVO MEGA ROBSOM A EVOLUÇÃO NO ROCK DELAS FLORENTINA 24-02-2024 DJ JR ELETRIZANTE', '29/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-mega-robsom-evolucao-no-rock.html', 'https://archive.org/download/cd-ao-vivo-mega-robsom-a-evoluca-o-no-rock-delas-florentina-24-02-2024-dj-jr-eletrizante/CD%20AO%20VIVO%20MEGA%20ROBSOM%20A%20EVOLU%C3%87%C3%83O%20NO%20ROCK%20DELAS%20FLORENTINA%2024-02-2024%20DJ%20JR%20ELETRIZANTE.zip'], 
+['CD AO VIVO CARABAO O FURIOSO DO MARAJÓ NO CLUBE DOS ESTIVADORES 25-02-2024 DJ SILVINHO', '28/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-carabao-o-furioso-do-marajo_76.html', 'https://archive.org/download/cd-ao-vivo-carabao-o-furioso-do-marajo-no-clube-dos-estivadores-25-02-2024-dj-silvinho/CD%20AO%20VIVO%20CARABAO%20O%20FURIOSO%20DO%20MARAJ%C3%93%20NO%20CLUBE%20DOS%20ESTIVADORES%2025-02-2024%20DJ%20SILVINHO.zip'], 
+['CD AO VIVO TUDÃO CROCODILO NO BELOQUINHA (BAILE DO PATRESE) 25-02-2024', '27/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-tudao-crocodilo-no_27.html', 'https://archive.org/download/cd-ao-vivo-tuda-o-crocodilo-no-beloquinha-baile-do-patrese-25-02-2024/CD%20AO%20VIVO%20TUD%C3%83O%20CROCODILO%20NO%20BELOQUINHA%20%28BAILE%20DO%20PATRESE%29%2025-02-2024.zip'], 
+['CD AO VIVO TUDÃO CROCODILO NA VIA SHOW (BAILE DO PATRESE) 24-02-2024', '27/02/2024', 'Ryan Mix', 'https://www.cdsdeaparelhagens.com/2024/02/cd-ao-vivo-tudao-crocodilo-na-via-show_27.html', 'https://archive.org/download/cd-ao-vivo-tuda-o-crocodilo-na-via-show-baile-do-patrese-24-02-2024/CD%20AO%20VIVO%20TUD%C3%83O%20CROCODILO%20NA%20VIA%20SHOW%20%28BAILE%20DO%20PATRESE%29%2024-02-2024.zip']]
+Conexão exitosa: <Response [200]>
+
+https://www.cdsdeaparelhagens.com/
+https://www.cdsdeaparelhagens.com/search?updated-max=2024-02-27T15%3A02%3A00-08%3A00&max-results=10#PageNo=2
+https://www.cdsdeaparelhagens.com/search?updated-max=2024-02-26T17%3A16%3A00-08%3A00&max-results=10#PageNo=3
+https://www.cdsdeaparelhagens.com/search?updated-max=2024-02-25T10%3A20%3A00-08%3A00&max-results=10#PageNo=4
+https://www.cdsdeaparelhagens.com/search?updated-max=2024-02-24T06%3A54%3A00-08%3A00&max-results=10#PageNo=5
+https://www.cdsdeaparelhagens.com/search?updated-max=2024-02-22T08%3A27%3A00-08%3A00&max-results=10#PageNo=6
+
